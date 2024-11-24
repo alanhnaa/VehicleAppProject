@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#D32F2F</color>
+    <color name="red_light">#E57373</color>
+    <color name="red_dark">#C62828</color>
+    <color name="silver">#F5F5F5</color>
+    <color name="silver_light">#FAFAFA</color>
+    <color name="silver_dark">#EEEEEE</color>
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
