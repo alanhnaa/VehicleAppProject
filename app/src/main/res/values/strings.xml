@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">VehicleAppProject</string>
+    <string name="app_name">MESRA</string>
+    <string name="signup_title">MESRA</string>
+    <string name="signup_subtitle">Daftarkan Akun Anda</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_email_address">Alamat Email</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="btn_signup">Daftar</string>
+    <string name="already_have_account">Sudah punya akun? Masuk</string>
+    <string name="signin_title">MESRA</string>
+    <string name="signin_subtitle">Masuk ke Akun Anda</string>
+    <string name="btn_signin">Masuk</string>
+    <string name="dont_have_account">Belum punya akun? Daftar</string>
 </resources>
